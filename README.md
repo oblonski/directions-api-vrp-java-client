@@ -17,3 +17,13 @@ See [TestMain](https://github.com/karussell/directions-api-vrp-java-client/blob/
   <version>0.4.1</version>
 </dependency>
 ```
+
+## Other Clients
+
+The other parts of the API are currently covered in a [separate repository](https://github.com/graphhopper/directions-api-java-client) (for Java). 
+
+Clients in other languages are listed [here](https://github.com/graphhopper/directions-api/blob/master/README.md#api-clients-and-examples).
+
+## License
+
+This project stands under the Apache License 2.0
