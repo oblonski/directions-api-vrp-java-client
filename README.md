@@ -9,6 +9,14 @@ This client is automatically created from the swagger specification.
 See [TestMain](https://github.com/karussell/directions-api-vrp-java-client/blob/master/src/main/java/io/swagger/client/TestMain.java#L27) for an example usage.
 
 ## Maven
+It is not yet in the central repository, thus you need to install it locally. Just do the following
+
+```
+git clone https://github.com/karussell/directions-api-vrp-java-client.git
+cd directions-api-vrp-java-client/
+mvn install
+```
+and reference it in your pom like this
 
 ```xml
 <dependency>
